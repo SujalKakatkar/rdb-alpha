@@ -81,3 +81,4 @@ cd node_modules
 cd has
 cd src
 pwd
+ls --color=auto
