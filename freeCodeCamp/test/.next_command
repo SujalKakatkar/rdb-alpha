@@ -112,3 +112,5 @@ touch footer.jpeg
 ls --color=auto
 touhc roboto.font
 touch roboto.font
+ls --color=auto
+touch lato.font
