@@ -68,3 +68,16 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd src
+cd ..
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd /nod_modules/has/src
+cd /nod_modules
+cd /node_modules/has/src
+ls --color=auto
+cd node_modules
+cd has
+cd src
+pwd
