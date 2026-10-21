@@ -116,3 +116,17 @@ ls --color=auto
 touch lato.font
 touch menlo.font
 ls --color=auto
+touch codeAlly.svf
+ls --color=auto
+rm codeAlly.svf
+ls --color=auto
+rm codeAlly.svg
+touch codeAlly.svg
+ls --color=auto
+rm codeAlly.svg
+touch codeAlly.svg
+ls --color=auto
+ls --color=auto
+rm codeAlly.svg
+touch codeAlly.svg
+touch CodeAlly.svg
