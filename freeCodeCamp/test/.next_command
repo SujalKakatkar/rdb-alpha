@@ -184,3 +184,13 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd websit
 cd website
 ls --color=auto
+rm /images/background.jpg
+ls --color=auto /images
+ls --color=auto
+ls --color=auto images
+rm images/background.jpg
+ls --color=auto
+ls --color=auto images
+cp background.jpg images
+ls --color=auto images
+rm background.jpg
