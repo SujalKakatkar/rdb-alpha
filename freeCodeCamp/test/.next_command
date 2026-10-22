@@ -245,3 +245,12 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd website
+cd ../..
+cd ..
+cd client/src/asset
+cd client/src/assets
+find
+client/assets/images
+cd client/assets/images
+cd ../../..
