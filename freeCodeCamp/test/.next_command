@@ -241,3 +241,4 @@ find
 cd client
 mkdir assests
 mkdir assets
+cd assets
