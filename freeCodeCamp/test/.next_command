@@ -279,3 +279,4 @@ ls --color=auto
 rm codeAlly.svg
 ls --color=auto
 mv CodeAlly.svg client/assets/icons
+find
