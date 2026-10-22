@@ -255,3 +255,4 @@ client/assets/images
 cd client/assets/images
 cd ../../..
 cd images
+ls --color=auto
