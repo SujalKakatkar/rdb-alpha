@@ -230,3 +230,5 @@ mv syles.css client/src
 mv styles.css client/src
 find
 find client
+__vsc_prompt_cmd_original
+find --help
