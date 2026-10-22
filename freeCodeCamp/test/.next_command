@@ -291,3 +291,4 @@ find
 touch client/assets/fonts/roboto-bold.woff
 rm fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find client/assets/fonts
