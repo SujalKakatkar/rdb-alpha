@@ -195,3 +195,4 @@ cp background.jpg images
 ls --color=auto images
 rm background.jpg
 ls --color=auto
+cp header.png images
